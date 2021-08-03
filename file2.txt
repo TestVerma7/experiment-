@@ -1,2 +1,3 @@
 this is my file2 
 im working on test branch to fix some bugs 
+im trying to learn forking and pull requets 
